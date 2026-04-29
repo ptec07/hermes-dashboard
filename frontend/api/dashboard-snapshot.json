@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-04-29T11:47:27.172408+00:00",
+  "status": {
+    "project": "/home/ptec07/.hermes/hermes-agent",
+    "python": "3.11.15",
+    "model": "gpt-5.5",
+    "provider": "OpenAI Codex",
+    "gateway_running": true,
+    "discord_configured": true,
+    "active_jobs": 3,
+    "active_sessions": 21
+  },
+  "session_store": {
+    "total_sessions": 399,
+    "total_messages": 36373,
+    "database_size": "676.9 MB"
+  },
+  "cron": {
+    "next_run": "2026-04-30T07:00:00+09:00"
+  },
+  "recent_sessions": [
+    {
+      "session_id": "20260429_202745_809f8a",
+      "platform": "discord",
+      "session_start": "2026-04-29T18:43:44.609050",
+      "last_updated": "2026-04-29T20:47:13.843662",
+      "message_count": 161,
+      "title": null
+    },
+    {
+      "session_id": "20260429_204422_c78265",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:44:22.269604",
+      "last_updated": "2026-04-29T20:45:10.163127",
+      "message_count": 154,
+      "title": null
+    },
+    {
+      "session_id": "20260429_203941_ea6368",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:39:41.873834",
+      "last_updated": "2026-04-29T20:40:49.721336",
+      "message_count": 133,
+      "title": null
+    },
+    {
+      "session_id": "20260429_203644_846b29",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:36:44.037000",
+      "last_updated": "2026-04-29T20:37:24.857633",
+      "message_count": 90,
+      "title": null
+    },
+    {
+      "session_id": "20260429_202927_435145",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:25:08.204988",
+      "last_updated": "2026-04-29T20:36:42.723507",
+      "message_count": 79,
+      "title": null
+    },
+    {
+      "session_id": "20260429_203311_069884",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:33:11.834521",
+      "last_updated": "2026-04-29T20:35:18.221752",
+      "message_count": 66,
+      "title": null
+    },
+    {
+      "session_id": "20260429_202932_f038bd",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:26:07.679524",
+      "last_updated": "2026-04-29T20:33:10.970547",
+      "message_count": 45,
+      "title": null
+    },
+    {
+      "session_id": "20260429_202805_658298",
+      "platform": "discord",
+      "session_start": "2026-04-29T20:28:05.803491",
+      "last_updated": "2026-04-29T20:28:59.852585",
+      "message_count": 92,
+      "title": null
+    }
+  ],
+  "skills": [
+    {
+      "name": "test-driven-development",
+      "count": 24
+    },
+    {
+      "name": "ona-web-clip-to-obsidian",
+      "count": 19
+    },
+    {
+      "name": "safe-project-scaffolding-with-existing-folders",
+      "count": 15
+    },
+    {
+      "name": "vite-react-learning-app-mvp-tdd",
+      "count": 13
+    },
+    {
+      "name": "vite-spa-vercel-separate-backend",
+      "count": 11
+    },
+    {
+      "name": "obsidian",
+      "count": 10
+    },
+    {
+      "name": "github-repo-management",
+      "count": 8
+    },
+    {
+      "name": "ocr-and-documents",
+      "count": 7
+    },
+    {
+      "name": "github-auth",
+      "count": 6
+    },
+    {
+      "name": "arxiv",
+      "count": 5
+    },
+    {
+      "name": "render-git-deploy-and-vercel-spa-fallback",
+      "count": 4
+    },
+    {
+      "name": "react-portfolio-dashboard-inventory-tdd",
+      "count": 4
+    }
+  ],
+  "web_apps": [
+    {
+      "name": "The Dashboard I Made",
+      "url": "https://the-dashboard-i-made.vercel.app",
+      "status": "운영"
+    },
+    {
+      "name": "Python Quest",
+      "url": "https://python-quest-taupe.vercel.app",
+      "status": "운영"
+    },
+    {
+      "name": "TypeScript Quest",
+      "url": "https://typescript-quest.vercel.app",
+      "status": "운영"
+    },
+    {
+      "name": "HTML Vercel Blog",
+      "url": "https://html-vercel-blog.vercel.app",
+      "status": "운영"
+    }
+  ]
+}
