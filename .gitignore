@@ -21,6 +21,10 @@ frontend/*.d.ts
 .env.*
 !.env.example
 
+# Local tunnel logs
+localhost-run-*.log
+*.localtunnel.log
+
 # OS/editor
 .DS_Store
 *.swp
