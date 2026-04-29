@@ -1,4 +1,4 @@
-module.exports = function handler(_request, response) {
+export default function handler(_request, response) {
   response.status(200).json({
     generated_at: new Date().toISOString(),
     status: {
