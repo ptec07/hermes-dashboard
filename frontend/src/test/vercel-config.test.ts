@@ -29,6 +29,8 @@ describe('Vercel deployment config', () => {
       recent_sessions?: unknown[]
     }
 
+    expect(apiSource).toContain('HERMES_DASHBOARD_BACKEND_URL')
+    expect(apiSource).toContain('`${backendUrl}/api/dashboard`')
     expect(apiSource).toContain('dashboard-snapshot.json')
     expect(apiSource).not.toContain('Vercel cloud preview — local Hermes runtime is not mounted')
     expect(snapshot.status?.project).toBe('/home/ptec07/.hermes/hermes-agent')
